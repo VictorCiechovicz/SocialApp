@@ -1,4 +1,4 @@
-package com.socialapp;
+package com.SocialApp;
 
 import android.os.Build;
 import android.os.Bundle;
